@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\Demo\Adder\impact.xsl
+OUTFILE=C:\Demo\Adder\impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=C:\Demo\Adder
+LICENSE=iMPACT
+USER_INFO=iMPACT

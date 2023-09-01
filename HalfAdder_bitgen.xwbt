@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\student\Desktop\Amit Barman_2021ETB019\Half_Adder\Adder\HalfAdder.ncd
+OUTFILE=C:\Users\student\Desktop\Amit Barman_2021ETB019\Half_Adder\Adder\HalfAdder.bit
+FAMILY=Spartan6
+PART=xc6slx4-3tqg144
+WORKINGDIR=C:\Users\student\Desktop\Amit Barman_2021ETB019\Half_Adder\Adder
+LICENSE=WebPack
+USER_INFO=__0_0_0

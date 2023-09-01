@@ -1,0 +1,11 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu Aug 03 17:24:49 2023
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "sum_out" LOCATE = SITE "P29" LEVEL 1;
+COMP "a_in" LOCATE = SITE "P24" LEVEL 1;
+COMP "b_in" LOCATE = SITE "P27" LEVEL 1;
+COMP "carry_out" LOCATE = SITE "P26" LEVEL 1;
+SCHEMATIC END;
+

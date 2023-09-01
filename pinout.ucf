@@ -1,0 +1,4 @@
+NET "a_in" LOC = "P24";
+NET "b_in" LOC = "P27";
+NET "sum_out" LOC = "P29";
+NET "carry_out" LOC = "P26";

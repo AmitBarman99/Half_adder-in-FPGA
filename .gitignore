@@ -1,0 +1,9 @@
+
+*.log
+temp/
+*.cmd
+*.cmd_log
+*.temp
+isim/
+_ngo/
+_xmsgs/
